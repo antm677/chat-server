@@ -6,7 +6,7 @@ from langchain_community.vectorstores import Typesense
 import typesense
 
 ts_config = {
-    "api_key": "dZsJYSE7xVl70a5swsBeocVE4tOG2osC",
+    "api_key": "",
     "connectionTimeoutSeconds": "10",
     "nodes": [{ 		
         "host": "typesense-350195377988.us-central1.run.app",

@@ -5,4 +5,4 @@ gcloud run deploy tiebreak-demo \
       --min-instances=1 \
       --min=1 \
       --memory=1Gi \
-      --no-invoker-iam-check \
+      --no-invoker-iam-check
